@@ -117,25 +117,19 @@ This page analyzes historical sales performance and predicts future trends using
 
 ## Geographical Sales Dashboard
 
-*(Insert screenshot here)*
-
-![Geographical Sales](Images/page1-geographical-sales.png)
+![Geographical Sales](Images/Geographical%20Sales%20Visuals.png)
 
 ---
 
 ## Sales Performance Report
 
-*(Insert screenshot here)*
-
-![Sales Performance](Images/page2-sales-performance.png)
+![Sales Performance](Images/Sales%20Performance%20Report.png)
 
 ---
 
 ## Sales Trend & Forecast
 
-*(Insert screenshot here)*
-
-![Sales Forecast](Images/page3-sales-trend-forecast.png)
+![Sales Forecast](Images/Sales%20Trend%20and%20Forecasts.png)
 
 ---
 
